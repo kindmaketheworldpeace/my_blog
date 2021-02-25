@@ -1,0 +1,191 @@
+.app {
+    height: 100%;
+    .header {
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        background: $color-white;
+        display: flex;
+        justify-content: space-between;
+        &-left {
+            width: 250px;
+            padding-left: 20px;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            img {
+                width: 35px;
+                height: 25px;
+                margin-right: 10px;
+            }
+            &-word {
+                font-size: $font-size-04;
+                font-weight: $font-weight;
+                line-height: 50px;
+            }
+            &-icon {
+                .el-icon-s-fold {
+                    font-size: $font-size-03;
+                }
+                .el-icon-s-unfold {
+                    font-size: $font-size-03;
+                }
+                .el-radio-button__inner {
+                    border: none;
+                }
+                .el-radio-button:first-child .el-radio-button__inner {
+                    border-left: none;
+                }
+                .el-radio-button__orig-radio:checked + .el-radio-button__inner {
+                    background: $color-white;
+                    border-color: $color-white;
+                }
+            }
+        }
+        &-right {
+            padding-right: 20px;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            &-name {
+                font-size: $font-size-02;
+                margin: 0 20px;
+            }
+            .login-out.el-icon-time {
+                font-size: $font-size-03;
+            }
+        }
+    }
+    &-content {
+        height: calc(100% - 50px);
+        display: flex;
+        justify-content: flex-start;
+        .menu {
+            width: auto;
+            height: 100%;
+            .el-menu {
+                width: 100%;
+                height: 100%;
+                .el-submenu__title {
+                    padding-left: 30px !important;
+                    font-size: 13px !important;
+                    color: $color-menu-font !important;
+                    font-weight: 500 !important;
+                    border-left: 3px solid $color-menu-border-02;
+                }
+                .el-submenu__title:hover {
+                    color: $color-white !important;
+                    background: $color-menu-background !important;
+                    border-left: 3px solid $color-menu-border;
+                }
+                .el-submenu.is-opened {
+                    .el-submenu__title {
+                        background: $color-menu-background !important;
+                        border-left: 3px solid $color-menu-border;
+                    }
+                    .el-menu-item {
+                        background: $color-menu-background !important;
+                        border-left: 3px solid $color-menu-border;
+                    }
+                }
+                .el-menu-item:hover {
+                    color: $color-white !important;
+                    background: $color-menu-background !important;
+                }
+                .el-menu-item.is-active {
+                    color: $color-white !important;
+                    font-weight: 500px;
+                    background: $color-menu-background !important;
+                    border-left: 3px solid $color-menu-border;
+                }
+                .el-menu-item {
+                    padding-left: 30px !important;
+                    font-size: 13px !important;
+                    color: $color-menu-font !important;
+                    font-weight: 500 !important;
+                    border-left: 3px solid $color-menu-border-02;
+                }
+                .el-submenu.is-active {
+                    background: $color-menu-background !important;
+                }
+            }
+            &-name {
+                margin-left: 20px;
+            }
+            &-sub-name {
+                padding-left: 30px;
+            }
+        }
+        .container {
+            height: 100%;
+            padding: 15px 15px 0;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background: $color-gray-200;
+            .bread-crumb {
+                flex: none;
+                margin-bottom: 5px;
+            }
+            &-content {
+                width: 100%;
+                height: calc(100% - 45px);
+                background: $color-white;
+                .monitor_panel {
+                    height: 100%;
+                    padding: 0 20px;
+                    background: $color-gray-200;
+                    &-top {
+                        height: 40px;
+                        font-size: $font-size-03;
+                        color: $color-gray-800;
+                        font-weight: $font-weight;
+                        text-align: center;
+                        &-word {
+                            background: $color-white;
+                            line-height: 40px;
+                            color: $color-gray-700;
+                        }
+                    }
+                    &-middle {
+                        height: calc((100% - 56px)/2);
+                        margin-top: 8px;
+                        .chart-pic {
+                            height: 100%;
+                            background: $color-white;
+                            &-select {
+                                line-height: 50px;
+                                padding-right: 20px;
+                                text-align: right; 
+                            }
+                            &-right {
+                                width: 100%;
+                                height: calc(100% - 50px);
+                            }
+                        }
+                    }
+                    &-end {
+                        margin-top: 8px;
+                        height: calc((100% - 56px)/2);
+                        background: $color-white;
+                        &-pic {
+                            height: 100%;
+                            width: 100%;
+                        }
+                    }
+                }
+            }
+            .app-footer {
+                width: 100%;
+                flex: none;
+                position: absolute;
+                bottom: 5px;
+                text-align: center;
+                color: $color-gray-500;
+            }
+        }
+    }
+    .form-content {
+      width: 85% !important;
+    }
+}

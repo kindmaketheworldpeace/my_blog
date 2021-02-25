@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "home",
+    "display_name": "首页管理",
+    "path": "/home",
+    "image_url": "ico_navbar_quanju_n.png",
+    "image_h_url": "ico_navbar_quanju_h.png",
+    "icon": "tachometer-alt",
+    "is_menu": true
+  },
+  {
+    "id": 2,
+    "name": "permission",
+    "display_name": "权限管理",
+    "path": "",
+    "image_url": "ico_navbar_xitong_n.png",
+    "image_h_url": "ico_navbar_xitong_h.png",
+    "icon": "edit",
+    "is_menu": false
+  },
+  {
+    "id": 3,
+    "name": "user",
+    "display_name": "用户管理",
+    "path": "/user",
+    "image_url": "",
+    "image_h_url": "",
+    "parent_id": 2,
+    "is_menu": false
+  },
+  {
+    "id": 4,
+    "name": "group",
+    "display_name": "角色管理",
+    "path": "/group",
+    "image_url": "",
+    "image_h_url": "",
+    "parent_id": 2,
+    "is_menu": false
+  },
+  {
+    "id": 5,
+    "name": "change_task",
+    "display_name": "变更管理",
+    "path": "",
+    "image_url": "ico_navbar_xitong_n.png",
+    "image_h_url": "ico_navbar_xitong_h.png",
+    "icon": "edit",
+    "is_menu": true
+  },
+{
+    "id": 6,
+    "name": "task_control",
+    "display_name": "任务管理",
+    "path": "/task_control",
+    "image_url": "",
+    "image_h_url": "",
+    "parent_id": 5,
+    "is_menu": true
+  },
+
+  {
+    "id": 7,
+    "name": "normal_change",
+    "display_name": "常规变更",
+    "path": "/normal_change",
+    "image_url": "",
+    "image_h_url": "",
+    "parent_id": 5,
+    "is_menu": true
+  },
+  {
+    "id": 8,
+    "name": "self_change",
+    "display_name": "自定义变更",
+    "path": "/self_change",
+    "image_url": "",
+    "image_h_url": "",
+    "parent_id": 5,
+    "is_menu": true
+  },
+  {
+    "id": 9,
+    "name": "create_scene",
+    "display_name": "新建场景",
+    "path": "/create_scene",
+    "image_url": "",
+    "image_h_url": "",
+    "icon": "edit",
+    "parent_id": 5,
+    "is_menu": true
+  },
+  {
+    "id": 10,
+    "name": "scene_control",
+    "display_name": "场景管理",
+    "path": "/scene_control",
+    "image_url": "",
+    "image_h_url": "",
+    "icon": "edit",
+    "parent_id": 5,
+    "is_menu": true
+  },
+  {
+    "id": 11,
+    "name": "remark_control",
+    "display_name": "复核管理",
+    "path": "",
+    "image_url": "",
+    "image_h_url": "",
+    "icon": "edit",
+    "is_menu": true
+  },
+  {
+    "id": 12,
+    "name": "rule_control",
+    "display_name": "规则管理",
+    "path": "/rule_control",
+    "image_url": "",
+    "image_h_url": "",
+    "icon": "edit",
+    "parent_id": 11,
+    "is_menu": true
+  },
+  {
+    "id": 13,
+    "name": "create_rule",
+    "display_name": "新建规则",
+    "path": "/create_rule",
+    "image_url": "",
+    "image_h_url": "",
+    "icon": "edit",
+    "parent_id": 11,
+    "is_menu": true
+  },
+  {
+    "id": 14,
+    "name": "system",
+    "display_name": "系统管理",
+    "path": "",
+    "image_url": "",
+    "image_h_url": "",
+    "icon": "edit",
+    "is_menu": true
+  },
+  {
+    "id": 15,
+    "name": "service_privider",
+    "display_name": "标段管理",
+    "path": "/service_privider",
+    "image_url": "",
+    "image_h_url": "",
+    "icon": "edit",
+    "parent_id": 14,
+    "is_menu": true
+  },
+  {
+    "id": 16,
+    "name": "oprate_log",
+    "display_name": "操作日志",
+    "path": "/oprate_log",
+    "image_url": "",
+    "image_h_url": "",
+    "icon": "edit",
+    "parent_id": 14,
+    "is_menu": true
+  },
+  {
+    "id": 16,
+    "name": "edit_change",
+    "display_name": "新建变更",
+    "path": "/oprate_log",
+    "image_url": "",
+    "image_h_url": "",
+    "icon": "edit",
+    "parent_id": 13,
+    "is_menu": true
+  }
+]
+
+

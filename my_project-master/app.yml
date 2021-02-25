@@ -1,0 +1,19 @@
+app_code: saas_template
+app_name: 蓝鲸开发框架
+author: kris
+category: SYSTEM
+introduction: 蓝鲸开发框架
+version: 1.1.0
+language: python
+is_use_celery: True
+is_use_celery_with_gevent: True
+container:
+    memory: 1024
+desktop:
+    width: 1200
+    height: 720
+    is_max: True
+date: 2019-08-15 15:47:00
+env:
+  - key: IS_SAAS_APP
+    value: true

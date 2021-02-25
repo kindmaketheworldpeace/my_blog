@@ -1,0 +1,46 @@
+[
+  {
+    "codename": "add_group",
+    "model_name": "group",
+    "display_name": "新增角色"
+  },
+  {
+    "codename": "change_group",
+    "model_name": "group",
+    "display_name": "编辑角色中的成员"
+  },
+  {
+    "codename": "change_permission",
+    "model_name": "group",
+    "display_name": "修改角色的信息和权限"
+  },
+  {
+    "codename": "delete_group",
+    "model_name": "group",
+    "display_name": "删除角色"
+  },
+  {
+    "codename": "add_bkuser",
+    "is_show": true,
+    "model_name": "bkuser",
+    "display_name": "添加用户"
+  },
+  {
+    "codename": "delete_bkuser",
+    "is_show": true,
+    "model_name": "bkuser",
+    "display_name": "删除用户"
+  },
+  {
+    "codename": "sync_bkuser",
+    "is_show": true,
+    "model_name": "bkuser",
+    "display_name": "同步用户"
+  },
+  {
+    "codename": "change_bkuser",
+    "is_show": true,
+    "model_name": "bkuser",
+    "display_name": "编辑用户"
+  }
+]

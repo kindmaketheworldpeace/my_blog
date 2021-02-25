@@ -1,0 +1,2 @@
+webpackJsonp([10],{ClAc:function(t,e){},sb9a:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"new"},[e("el-button",{attrs:{type:"primary"}},[this._v("主要按钮")])],1)},staticRenderFns:[]};var s=n("VU/8")({data:function(){return{}},created:function(){},methods:{}},r,!1,function(t){n("ClAc")},null,null);e.default=s.exports}});
+//# sourceMappingURL=10.js.map
