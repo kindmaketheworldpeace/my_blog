@@ -1,0 +1,313 @@
+# Translations template for PROJECT.
+# Copyright (C) 2018 blueking
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-05-25 11:04+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: node_man/constants.py:63 node_man/constants.py:64 node_man/constants.py:65
+msgid "安装"
+msgstr ""
+
+#: node_man/constants.py:66 node_man/constants.py:67 node_man/constants.py:68
+msgid "重装"
+msgstr ""
+
+#: node_man/constants.py:69
+msgid "卸载"
+msgstr ""
+
+#: node_man/constants.py:70
+msgid "移除"
+msgstr ""
+
+#: node_man/constants.py:71
+msgid "更新插件"
+msgstr ""
+
+#: node_man/constants.py:72
+msgid "更新配置"
+msgstr ""
+
+#: node_man/constants.py:73
+msgid "更新信息"
+msgstr ""
+
+#: node_man/constants.py:74 node_man/constants.py:75 node_man/constants.py:76
+msgid "升级"
+msgstr ""
+
+#: node_man/constants.py:138
+msgid "任务初始化"
+msgstr ""
+
+#: node_man/constants.py:139
+msgid "登录目标主机"
+msgstr ""
+
+#: node_man/constants.py:140
+msgid "安装基础依赖"
+msgstr ""
+
+#: node_man/constants.py:141
+msgid "下载安装包"
+msgstr ""
+
+#: node_man/constants.py:142
+msgid "上传安装包"
+msgstr ""
+
+#: node_man/constants.py:143
+msgid "执行安装脚本"
+msgstr ""
+
+#: node_man/constants.py:144
+msgid "安装脚本执行完毕"
+msgstr ""
+
+#: node_man/constants.py:145
+msgid "注册主机到CMDB"
+msgstr ""
+
+#: node_man/constants.py:146
+msgid "检测Agent状态和版本"
+msgstr ""
+
+#: node_man/constants.py:147
+msgid "准备安装脚本"
+msgstr ""
+
+#: node_man/constants.py:148
+msgid "准备卸载脚本"
+msgstr ""
+
+#: node_man/constants.py:149
+msgid "执行批量安装作业"
+msgstr ""
+
+#: node_man/constants.py:150
+msgid "执行批量卸载作业"
+msgstr ""
+
+#: node_man/constants.py:151
+msgid "检测Windows系统版本"
+msgstr ""
+
+#: node_man/constants.py:152
+msgid "任务执行成功"
+msgstr ""
+
+#: node_man/constants.py:153
+msgid "任务执行失败"
+msgstr ""
+
+#: node_man/models.py:178
+msgid "强制终止"
+msgstr ""
+
+#: node_man/permissions.py:76 node_man/permissions.py:78
+msgid "nginx配置信息为空"
+msgstr ""
+
+#: node_man/component/cmdb.py:74
+#, python-format
+msgid "获取单个业务详情异常，args=%s"
+msgstr ""
+
+#: node_man/component/cmdb.py:81
+msgid "未知业务"
+msgstr ""
+
+#: node_man/component/cmdb.py:278 node_man/component/cmdb.py:305
+#: node_man/component/cmdb.py:339
+#, python-format
+msgid "获取主机列表异常，error=%s"
+msgstr ""
+
+#: node_man/component/exceptions.py:9
+msgid "系统异常"
+msgstr ""
+
+#: node_man/component/exceptions.py:22
+msgid "参数验证失败"
+msgstr ""
+
+#: node_man/component/exceptions.py:27
+msgid "云区域不存在"
+msgstr ""
+
+#: node_man/component/exceptions.py:32
+msgid "删除失败"
+msgstr ""
+
+#: node_man/component/exceptions.py:37
+msgid "远程服务请求结果异常"
+msgstr ""
+
+#: node_man/component/exceptions.py:42
+msgid "组件调用异常"
+msgstr ""
+
+#: node_man/component/exceptions.py:56
+msgid "权限不足"
+msgstr ""
+
+#: node_man/component/exceptions.py:61
+msgid "nginx配置信息不存在"
+msgstr ""
+
+#: node_man/serializers/misc.py:38
+msgid "云区域名称不符合要求，长度小于32,中英文、数字和下划线"
+msgstr ""
+
+#: node_man/serializers/validators.py:16
+msgid "非linux机器无法安装proxy"
+msgstr ""
+
+#: node_man/serializers/validators.py:19
+msgid "安装proxy必须要填写外网ip"
+msgstr ""
+
+#: node_man/serializers/validators.py:29
+#, python-format
+msgid "%s:当前机器已经安装了AGENT"
+msgstr ""
+
+#: node_man/serializers/validators.py:33
+#, python-format
+msgid "%s:当前机器还未安装AGENT，不能做其他操作"
+msgstr ""
+
+#: node_man/serializers/validators.py:46
+#, python-format
+msgid "%s:当前机器属于业务【%s】，请调整重试"
+msgstr ""
+
+#: node_man/serializers/validators.py:53
+msgid "参数错误，非windwos机器不需要cygwin"
+msgstr ""
+
+#: node_man/serializers/validators.py:67
+msgid "单个云区域最多只能安装2台PROXY"
+msgstr ""
+
+#: node_man/serializers/validators.py:75
+msgid "当前云区域没有可用的PROXY，请先检查并安装"
+msgstr ""
+
+#: node_man/serializers/validators.py:82
+msgid "指定云区域不存在，请检查确认"
+msgstr ""
+
+#: node_man/serializers/validators.py:102
+msgid "当前云区域存在P-Agent,无法卸载Proxy"
+msgstr ""
+
+#: node_man/serializers/validators.py:106
+#, python-format
+msgid "当前机器[%s]正在执行操作过程中，请终止再操作"
+msgstr ""
+
+#: node_man/serializers/validators.py:114
+msgid "非直连区域，不能安装AGENT"
+msgstr ""
+
+#: node_man/serializers/validators.py:119
+msgid "直连区域，不能安装PROXY和PAGENT"
+msgstr ""
+
+#: node_man/serializers/validators.py:130
+#, python-format
+msgid "%s：帐号信息为空，请确认"
+msgstr ""
+
+#: node_man/serializers/validators.py:133
+#, python-format
+msgid "%s：SSH端口信息为空，请确认"
+msgstr ""
+
+#: node_man/serializers/validators.py:137
+#, python-format
+msgid "%s：密码字段为空，请确认"
+msgstr ""
+
+#: node_man/serializers/validators.py:140
+#, python-format
+msgid "%s：key字段为空，请确认"
+msgstr ""
+
+#: node_man/serializers/validators.py:145
+#, python-format
+msgid "%s：该IP的密码/密钥已过期(超过1天)"
+msgstr ""
+
+#: node_man/serializers/validators.py:157
+#, python-format
+msgid "%s:当前机器属于%s云区域"
+msgstr ""
+
+#: node_man/serializers/validators.py:177
+msgid "已经存在相同的云区域，请修改后再提交"
+msgstr ""
+
+#: node_man/serializers/validators.py:197
+#: node_man/serializers/validators.py:200
+#~ msgid "请填写合法的nginx信息，格式为ip1:port1,ip1:port1"
+#~ msgstr ""
+
+#: node_man/views/jobs.py:63
+msgid "提交任务中部分不属于该业务"
+msgstr ""
+
+#: node_man/views/misc.py:70
+#, python-format
+msgid "该云区域在其他业务下存在机器：%s"
+msgstr ""
+
+#: node_man/views/misc.py:94
+msgid "修改的名称不能为空"
+msgstr ""
+
+#: node_man/views/misc.py:112
+#, python-format
+msgid "方法%s不被允许"
+msgstr ""
+
+#: node_man/views/misc.py:121
+msgid "nginx配置信息不存在，请先配置"
+msgstr ""
+
+#: node_man/serializers/validators.py:196
+#, python-format
+msgid '{}:nginx信息{}格式不正确，IP和端口号之间请用":"分隔开'
+msgstr ""
+
+#: node_man/serializers/validators.py:198
+#, python-format
+msgid "{}:IP信息{}格式不正确"
+msgstr ""
+
+#: node_man/serializers/validators.py:200
+#, python-format
+msgid "{}:端口号{}格式不正确，请填写小于65536的整数"
+msgstr ""
+
+#: node_man/constants.py:96
+msgid "导入机器"
+msgstr ""
+
+#: node_man/serializers/validators.py:238
+msgid '超时配置信息({})格式不正确，请输入不小于{}的合法数字'
+msgstr ""

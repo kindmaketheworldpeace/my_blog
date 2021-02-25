@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+    <head>
+        <meta charset="UTF-8">
+        <title>${ title }</title>
+        <link rel="icon" href="${STATIC_URL}favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="${STATIC_URL}favicon.ico" type="image/x-icon">
+        <link href="${STATIC_URL}assets/css/app.css?v=${STATIC_VERSION}" rel="stylesheet">
+        <script type="text/javascript" src="${STATIC_URL}js/jquery-1.10.2.min.js?v=${STATIC_VERSION}"></script>
+        <script type="text/javascript" src="${STATIC_URL}js/jsencrypt.min.js?v=${STATIC_VERSION}"></script>
+    </head>
+    <body>
+        <script>
+            var site = '${SITE_URL}api/';
+            window.pubkey = "${PUBLIC_KEY}";
+            window.user = '${request.user.username}';
+            window.is_superuser = ${1 if request.user.is_superuser else 0};
+            window.siteHome = '${SITE_URL}';
+            %if request.user.bk_supplier_id != 0:
+                window.is_cloud = 1
+            %else:
+                window.is_cloud = 0
+            %endif
+        </script>
+        <div id="app"></div>
+        <script type="text/javascript" src="${STATIC_URL}assets/js/vendor.js?v=${STATIC_VERSION}"></script>
+        <script type="text/javascript" src="${STATIC_URL}assets/js/app.js?v=${STATIC_VERSION}"></script>
+        <script type="text/javascript" src="${STATIC_URL}js/app.js?v=${STATIC_VERSION}"></script>
+    </body>
+</html>

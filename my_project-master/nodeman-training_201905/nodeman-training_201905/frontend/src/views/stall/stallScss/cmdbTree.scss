@@ -1,0 +1,99 @@
+.tree-node {
+    position: relative;
+    padding-left: 20px;
+    line-height: 36px;
+    font-size:14px;
+    font-weight:400;
+    color:rgba(115,121,135,1);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    &.set-frist-pLeft {
+        padding-left: 20px !important;
+    }
+    &.down {
+        transition: all 0.3s ease;
+        .icon-user-triangle {
+            transform: rotate(0);
+        }
+    }
+    &:hover,&.active{
+        background: #F1F6FF;
+        color: #3A84FF;
+        .unfold-icon .icon-user-triangle,.unfold-icon .tree-file {
+            &::before {
+                color: #3A84FF;
+            }
+        }
+        .icon-user-more {
+            display: block;
+            padding: 10px;
+        }
+    }
+    .name-text {
+        display: inline-block;
+        vertical-align: middle;
+        width: 130px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        &.chang-width {
+            max-width: 100px;
+        }
+        &.set-width {
+            max-width: 45px;
+        }
+    }
+    .unfold-icon {
+        display: inline-block;
+        vertical-align: middle;
+        .icon-plus-square-shape {
+            font-size: 14px;
+        }
+        .tree-file {
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 6px;
+            font-size: 12px;
+            &::before {
+                color: #c6d0d9;
+            }
+        }
+    }
+}
+.icon-user-triangle {
+    opacity: 1;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 10px;
+    transform: rotate(-90deg);
+    transition: all 0.3s ease;
+    &::before {
+        color: #c6d0d9;
+    }
+    &.hidden {
+        opacity: 0;
+    }
+}
+.check-icon {
+    position: absolute;
+    right: 19px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: block;
+    width:18px;
+    height:18px;
+    background:rgba(255,255,255,1);
+    border:1px solid rgba(151,155,165,1);
+    border-radius: 50%;
+    &.icon-user-sure {
+        font-size: 20px;
+        width: auto;
+        height: auto;
+        border-radius: 0;
+        border: none;
+        background: none;
+        &::before {
+            color: #3A84FF;
+        }
+    }
+}

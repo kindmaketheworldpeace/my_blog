@@ -1,0 +1,66 @@
+.bk-cmdb-search-content {
+	.bk-selector-input {
+		height: 36px;
+		line-height: 36px;
+	}
+	.bk-selector-icon {
+		position: absolute!important;
+	    top: 13px!important; 
+	    right: 8px!important; 
+	}
+	input {
+		width: 100%;
+		height: 36px!important;
+	}
+	.icon-search {
+		top: 9px !important;
+    	font-size: 14px;
+	}
+	.bk-selector-wrapper {
+		&:hover {
+			.clear-icon {
+				display: block!important;
+	            top: 10px!important;
+			}
+		}
+	}
+}
+.bk-cmdb-table-info,
+.bk-cloud-area-table {
+	.bk-selector-input {
+		height: 36px;
+		line-height: 36px;
+	}
+	.bk-selector-icon {
+		position: absolute!important;
+	    top: 13px!important; 
+	    right: 8px!important; 
+	}
+}
+/* 弹窗 */
+.bk-popup-delete .bk-dialog-header {
+    padding: 55px 30px 10px;
+}
+.bk-popup-delete .bk-dialog-body {
+    text-align: center;
+}
+.bk-popup-delete .bk-dialog-footer.bk-d-footer {
+    border-top: none;
+    background-color: #fff;
+    height: 78px;
+    line-height: auto;
+}
+.bk-popup-delete .bk-dialog-footer .bk-dialog-outer {
+    text-align: center;
+    padding: 0;
+}
+.bk-dialog-form .bk-dialog-header .bk-dialog-title {
+    text-align: left;
+}
+.bk-dialog-form .bk-form-input {
+	height: 36px;
+	line-height: 36px;
+}
+.bk-dialog-form .bk-dialog-body {
+	padding: 0 30px!important;
+}

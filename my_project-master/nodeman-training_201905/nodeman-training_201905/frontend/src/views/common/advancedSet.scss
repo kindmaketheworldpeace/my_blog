@@ -1,0 +1,200 @@
+@import '../../scss/mixins/clearfix.scss';
+@import '../../scss/mixins/scroller.scss';
+
+.bk-advanced-set {
+    padding: 30px 140px;
+    height: 100%;
+    min-width: 1180px;
+}
+.bk-set-h1 {
+    text-align: center;
+    font-size: 24px;
+    color: #333C48;
+    line-height: 32px;
+    font-weight: normal;
+    margin: 0 0 30px 0;
+}
+.bk-advanced-info {
+    width: 100%;
+    height: calc(100% - 84px);
+    background-color: #fafbfd;
+    border: 1px solid #dddedf;
+    border-bottom: 0;
+    height: 100%;
+    overflow: auto;
+    @include scroller(#fff);
+}
+
+/* 已添加的节点 */
+.bk-advanced-node {
+    li {
+        font-size: 14px;
+        background-color: #fafbfd;
+    }
+    .bk-add-head {
+        padding-left: 30px;
+        cursor: pointer;
+        color: #313B4C;
+        line-height: 40px;
+        border-bottom: 1px solid #dddedf;
+        @include clearfix;
+    }
+    .bk-node-ip {
+        width: 50%;
+        float: left;
+    }
+    .bk-node-operat {
+        width: 20%;
+        float: left;
+    }
+    .bk-node-method {
+        width: 20%;
+        float: left;
+    }
+    .bk-node-delete {
+        width: 10%;
+        float: right;
+        text-align: right;
+        line-height: 40px;
+        padding-right: 20px;
+        position: relative;
+        font-size: 14px;
+        text-align: center;
+        .icon-delete {
+            float: right; 
+            line-height: 40px;
+            font-size: 16px;
+        }
+        .bk-delete-submit {
+            position: absolute;
+            top: 5px;
+            left: -40px;
+            width: 94px;
+            height: 30px;
+            background-color: #000;
+            color: #fff;
+            padding: 0 10px;
+            line-height: 30px;
+            border-radius: 5px;
+            .bk-delete-icon {
+                position: absolute;
+                top: 11px;
+                right: -3px;
+                width: 7px;
+                height: 7px;
+                background-color: #000;
+                transform: rotate(45deg);
+            }
+        }
+    }
+}
+
+/* 添加节点 */
+.bk-advanced-add {
+    width: 65%;
+    min-height: 100%;
+    float: left;
+    background-color: #fff;
+    border-right: 1px solid #dddedf;
+    padding-bottom: 90px;
+    li {
+        font-size: 14px;
+        background-color: #fafbfd;
+    }
+    .bk-add-head {
+        padding-left: 30px;
+        cursor: pointer;
+        color: #313B4C;
+        line-height: 40px;
+        border-bottom: 1px solid #dddedf;
+    }
+    .bk-add-form {
+        width: 100%;
+        padding: 30px 30px 30px 0;
+        /*border-bottom: 1px solid #dddedf;*/
+        background-color: #fff;
+        .bk-form-item {
+            @include clearfix;
+        }
+        .bk-label {
+            width: 120px;
+            font-weight: normal;
+            height: 36px;
+            line-height: 18px;
+        }
+        .bk-style-width {
+            width: 70%;
+            float: left;
+        }
+        .bk-cmdb {
+            width: 30%; 
+            float: right; 
+            height: 36px; 
+            padding-left: 20px;
+            .bk-checkbox-text {
+                color: #737987;
+                font-size: 14px;
+            }
+        }
+        .bk-button {
+            height: 36px;
+            font-size: 14px;
+        }
+        .bk-file-btn {
+            width: 70%;
+            overflow: hidden;
+            position: relative;
+        }
+        .bk-input-file {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            opacity: 0;
+            cursor: pointer;
+        }
+        .bk-file-message {
+            line-height: 36px;
+            color: #737987;
+        }
+    }
+    .bk-add-btn {
+        margin: 20px 0 10px 120px;
+    }
+}
+
+/* 注意事项 */
+.bk-advanced-attention {
+    width: 35%;
+    height: 100%;
+    padding: 24px 30px;
+    /*border-left: 1px solid #dddedf;*/
+    float: right;
+    font-size: 12px;
+    color: #737987;
+    line-height: 24px;
+    .bk-attention-head {
+        font-size: 14px;
+        color: #313b4c;
+        margin-bottom: 11px;
+    }
+}
+
+/* 底部按钮 */
+.bk-advanced-btn {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 5px 0;
+    box-shadow: 1px 2px 10px rgba(0,0,0,0.5);
+    z-index: 2;
+    background-color: #fff;
+    .bk-button {
+        height: 42px;
+        width: 140px;
+        font-size: 14px;
+    }
+}

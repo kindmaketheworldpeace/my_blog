@@ -1,0 +1,31 @@
+app_code: bk_nodeman
+app_name: 节点管理
+language: python
+is_use_celery: True
+is_use_celery_with_gevent: False
+container:
+    memory: 1024
+author: 蓝鲸智云
+introduction: 节点管理. 负责蓝鲸企业版/社区版 gse agent 的状态查询,版本更新,配置管理, 健康检查, 蓝鲸各服务的管理
+
+version: 1.2.9
+category: 运维工具
+language_support: 英语,中文
+desktop:
+    width: 1500
+    height: 1000
+    is_max: True
+
+libraries:
+- name: "enum34"
+  version: "1.1.6"
+- name: "paramiko"
+  version: "2.0.2"
+- name: "jsonschema"
+  version: "2.5.1"
+- name: "gevent"
+  version: "1.2.2"
+- name: "impacket"
+  version: "0.9.15"
+- name: "pyasn1"
+  version: "0.2.3"

@@ -1,0 +1,6 @@
+*.pyc
+*.log
+.idea/
+/nodeman
+/USERRES
+.DS_Store

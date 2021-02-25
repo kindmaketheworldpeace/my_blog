@@ -1,0 +1,49 @@
+before_script:
+  - source /data/gitlab-runner/paas-webfe/bin/activate
+  - which node && node --version
+  - alias tnpm="/data/gitlab-runner/node/bin/tnpm"
+  - which tnpm && tnpm --version
+
+stages:
+  - pep8
+  - build
+
+pep8:
+  stage: pep8
+  script:
+    - echo $PWD
+    - /data/gitlab-runner/env/pep8/bin/flake8 --ignore=F401,F403,F405,N806,E501,F841  --config=$PWD/.flake8 ./
+    - echo 'end pep8'
+  allow_failure: true
+
+build-test-webpack:
+  variables:
+    CI_REPOSITORY_URL:
+      http://$GIT_USERNAME:$GIT_PASSWORD@gitlab-paas.open.oa.com/$CI_PROJECT_PATH.git
+    OUT_PUT_DIR:
+      static/assets
+  stage: build
+  cache:
+    paths: 
+     - $CI_PROJECT_NAME/frontend/node_modules
+  script:
+    - echo "start build test"
+    - rm -rf  $CI_PROJECT_NAME $OUT_PUT_DIR
+    
+    - echo "git version" && git version 
+    - git config --global user.name $GIT_USERNAME
+    - git clone $CI_REPOSITORY_URL
+    - cd $CI_PROJECT_NAME
+    - cd ./frontend && tnpm install
+    - tnpm run build:test
+    - cd ../
+    - git status >> buildlog.txt
+    - date >> buildlog.txt
+    - ls -l
+    - git add *
+    - git commit -m "auto build-test[ci skip]"
+    - git push $CI_REPOSITORY_URL master
+    - echo "end build test"
+  only:
+    - master
+    - three_ips

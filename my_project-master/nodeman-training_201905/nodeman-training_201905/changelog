@@ -1,0 +1,176 @@
+#####Version 1.0.65
+
+BugFix:
+    - 编辑的时候提示不存在agent，无法进行批量操作
+    = nginx连接不上时，没有及时报错，还继续进行安装
+
+ #####Version 1.0.66
+ BugFix:
+    - windows运行job的用户名采用 administrator 和 system试错卸载
+    - 批量安装机器的时候，轮询状态的时候改为根据每一个机器来轮询
+    - proxy connection refused的异常处理
+    - 在CMDB删除机器再卸载的时候，错误日志没有展示出来问题修复
+
+ #####Version 1.0.67
+ BugFix:
+    - 在windows机器上卸载agent时尝试使用'system'帐户，而不是'System'帐户来调作业平台
+    - 更新状态的时候成功的时候没有加上问题处理
+    - 修复send_cmd没有把真正的错误日志打印出来问题
+    - 没有运行机器的时候不需要执行作业了
+    - ip端口加正则
+    - 删除record表中的多余记录信息
+    - 记录历史数据
+    - 安装Pagent获取脚本时使用nginx的inner_ip而不是outer_ip
+
+ #####Version 1.0.68
+ BugFix:
+    - nginx端口号长度限制，并更新报错信息
+    - 没有配置nginx server的外网ip时，安装proxy与PAgent的机器会卸载失败
+
+ #####Version 1.0.69
+ 功能开发：
+    - 当一台机器在另一业务下已安装，再进行安装时进行提示
+    - 批量终止任务时提醒用户哪些机器将要被终止
+
+#####Version 1.0.70
+ BugFix：
+    - P-agent密钥安装方式未传密钥问题
+    - 数据迁移功能不稳定，导致迁移过来数据在节点管理中不显示问题
+
+#####Version 1.0.71
+ BugFix：
+    - 在aix和windows系统安装任务进行下载文件前，预先对本地文件做一次md5校验
+    - 重构后端代码结构
+
+#####Version 1.0.72
+ 功能开发：
+    - 使用新命令获取windows版本
+    - 当一台机器已安装在另一个业务下时，提示用户并不进行安装
+    - 数据迁移后检查并确保主机所在业务的云区域存在
+
+#####Version 1.0.73
+ 功能开发：
+    - 当组件接口返回失败信息时记录整个请求响应的信息到日志
+
+
+#####Version 1.0.76
+ 功能开发：
+    - 去除多余信息
+    - 修复非 root 时, 安装脚本未 sudo 的问题
+    - 用密钥批量安装pagent的时候密钥不正确问题修复
+
+
+#####Version 1.0.77
+ 功能开发：
+    - 修复非 root 时, 安装脚本未 sudo 的问题
+
+#####Version 1.0.79
+ 功能开发：
+    - 支持导入功能
+
+#####Version 1.0.80
+ 功能开发：
+    - 导入按钮文字修复
+
+#####Version 1.0.82
+ 功能开发：
+    - 修复aix下安装命令执行互动输出捕获失败问题
+
+#####Version 1.0.83
+ 功能开发：
+    - 直联安装添加-e参数
+
+#####Version 1.1.0
+ 功能开发：
+    - 插件管理功能
+
+#####Version 1.1.13
+ 功能开发：
+    - 后台代码多IP功能支持
+
+#####Version 1.1.15
+ 更新：
+    - 下载时校验cascade_ip，而不是以前的outer_ip
+
+#####Version 1.1.17
+ 更新：
+    - 使用没有http前缀的url作为nginx配置
+
+#####Version 1.1.19
+ 更新：
+    - 修复页面bug
+    - 使用conn_ip安装Pagent
+    - 修复重装agent时，级联IP被重置bug
+    - 安装Pagent选择proxy时添加条件判断proxy没有被删除
+    - 使用inner_url进行卸载脚本下载
+
+#####Version 1.1.21
+ 更新：
+    - 更改gitlab-ci流程yaml
+
+#####Version 1.1.23
+ 更新：
+    - windows直连区域安装添加参数 biz_id
+
+#####Version 1.1.25
+ 更新
+    - Pagent安装使用 conn_ip
+    - windows直连区域安装使用 login_ip
+
+#####Version 1.1.27
+ 更新
+    - windows直连区域安装参数调整
+
+#####Version 1.1.29
+ 更新：
+    - 注册data_ip到cc(之前为conn_ip)
+
+#####Version 1.2.0
+ 功能开发：
+    - 复杂网络适配
+
+#####Version 1.2.1
+ Bug修复：
+    - 更新插件报 "inner_ips" 错误
+    - 密码失效报 ”inner_ip" 错误
+
+#####Version 1.2.2
+ Bug修复：
+    - 加载插件基础信息出现异常报错
+    - 从1.1.18更新上来，NGINX配置信息丢失
+    - 无法修改云区域名称
+
+#####Version 1.2.3
+ Bug修复：
+    - windows下卸载插件会错用root帐户问题
+    - 底部信息栏2018更新至2019
+    - 批量导入侧边栏介绍文字，错别字修改
+    - 不可同时升级Proxy和Pagent限制
+    - nginx设置里配置安装包来源说明文本更新
+
+#####Version 1.2.4
+ 更新：
+    - 修改linux下载脚本使用命令
+
+####Version 1.2.5
+ Bug修复：
+    - 更新卸载作业脚本参数
+
+####Version 1.2.6
+ Bug修复：
+    - 兼容老版本已安装没有数据ip和登录ip的主机数据
+
+####Version 1.2.7
+ Bug修复：
+    - 卸载PAgent失败问题
+
+####Version 1.2.8
+ 更新：
+    - 合并1.1.x bug修复
+        - 移除功能只进行节点管理内移除
+        - 国际化翻译
+    - 改 gse_ip为选填项
+
+####Version 1.2.9
+ 更新：
+    - 更新windows安装脚本参数

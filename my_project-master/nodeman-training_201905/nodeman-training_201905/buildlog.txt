@@ -1,0 +1,3306 @@
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	static/assets/
+nothing added to commit but untracked files present (use "git add" to track)
+Mon May 21 16:48:16 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue May 22 10:32:09 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue May 22 10:52:23 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue May 22 16:47:38 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue May 22 17:18:38 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue May 22 17:34:58 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue May 22 21:09:33 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed May 23 11:50:45 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed May 23 17:48:32 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu May 24 14:47:33 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu May 24 17:11:02 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu May 24 19:27:16 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu May 24 19:57:28 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu May 24 20:10:19 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu May 24 20:32:43 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu May 31 14:59:51 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Jun  1 10:55:19 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Jun  1 14:53:01 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Jun  1 15:33:03 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Jun  1 16:18:51 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Jun  1 16:30:48 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jun  4 11:22:24 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jun  4 11:27:31 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jun  4 11:49:12 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jun  4 11:51:51 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jun  4 14:27:13 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jun  4 14:29:22 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Jun  4 14:50:11 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun  5 09:52:17 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Jun  5 10:36:19 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun  5 11:26:51 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun  5 15:06:50 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jun  6 18:44:03 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun  7 12:09:00 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun  7 12:11:16 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun  7 14:56:15 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Jun  7 14:59:39 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Jun  8 10:04:06 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Jun  8 15:59:56 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Jun  8 17:20:15 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Jun  8 17:50:55 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Jun  8 20:21:16 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jun 11 15:24:21 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jun 11 15:27:38 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jun 11 17:46:31 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Jun 11 18:56:09 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun 12 17:59:28 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun 12 19:03:28 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun 12 19:42:12 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun 12 19:48:23 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jun 13 19:53:37 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jun 13 19:58:43 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jun 13 20:15:47 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun 14 15:56:27 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun 14 15:59:55 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun 14 16:02:24 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun 14 16:42:52 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun 14 17:06:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun 14 17:51:34 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun 14 18:07:05 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Jun 15 19:39:32 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sat Jun 16 17:36:50 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun 19 16:18:01 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#	modified:   static/index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun 19 16:34:02 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Jun 19 18:23:55 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun 19 22:23:45 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jun 20 10:08:33 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jun 20 10:11:44 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jun 20 10:41:29 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jun 21 20:37:34 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Jun 22 17:42:54 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Jun 25 21:50:16 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun 26 10:05:18 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Jun 26 10:42:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jun 26 21:16:01 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jul  2 20:17:49 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jul  5 11:34:38 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jul  5 19:52:45 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Jul  6 22:06:12 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sat Jul  7 17:18:54 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sat Jul  7 17:26:43 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Sat Jul  7 17:29:44 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sat Jul  7 17:38:46 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Sat Jul  7 17:42:27 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Sat Jul  7 17:47:10 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Jul  9 17:59:39 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Jul  9 22:32:22 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Jul  9 22:41:26 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Jul 10 10:55:00 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Jul 10 21:31:17 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jul 11 11:15:52 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jul 16 20:56:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Jul 17 16:17:46 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jul 18 16:15:17 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jul 18 19:50:50 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jul 19 17:49:51 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jul 19 18:06:37 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jul 19 18:17:19 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jul 19 18:32:49 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Jul 23 20:49:18 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Jul 24 18:05:53 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Jul 25 16:49:11 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Jul 30 11:20:38 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Aug  6 21:35:01 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Aug  9 10:48:28 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/index.html
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	static/assets/
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Aug 10 19:05:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Aug 10 19:23:17 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Aug 16 12:19:08 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sun Aug 19 20:46:00 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#	modified:   static/index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Aug 22 10:47:05 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Aug 22 17:45:02 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Aug 23 14:48:01 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Aug 27 15:54:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Aug 27 16:00:24 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Aug 27 19:15:48 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Aug 27 20:17:15 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Aug 28 15:12:32 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Aug 28 19:05:09 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Aug 28 20:36:01 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Aug 29 10:27:30 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Aug 29 17:03:18 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Aug 29 17:24:58 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Aug 29 17:59:32 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Aug 29 18:22:23 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Aug 29 19:49:39 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Aug 29 20:18:08 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Aug 31 15:11:38 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Aug 31 16:02:45 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Aug 31 16:23:12 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Aug 31 16:42:39 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Aug 31 16:52:15 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Sun Sep  2 19:54:15 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sun Sep  2 21:33:26 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Sep  3 11:37:47 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Sep  3 15:05:07 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Sep  3 15:15:55 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Sep  3 16:38:20 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep  4 20:41:42 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Sep  5 14:25:58 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep  5 15:06:43 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep  5 16:41:39 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep  5 21:34:29 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Sep  6 14:34:02 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Sep  6 16:13:48 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Sep  6 18:10:28 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Sep  7 10:04:22 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Sep  7 11:04:11 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Sep  7 16:15:48 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sun Sep  9 18:00:05 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sun Sep  9 20:51:11 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Sep 10 10:17:29 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Sep 10 10:48:39 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#	modified:   static/index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Sep 10 16:17:58 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Sep 10 16:37:28 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Sep 10 16:40:19 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Sep 10 16:50:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 11 10:37:59 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 11 17:10:27 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 11 18:07:58 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 12 09:48:21 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 12 10:17:21 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 12 11:08:11 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 12 14:23:20 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 12 14:55:35 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 12 18:22:17 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 12 20:24:18 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Sep 13 10:25:36 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Sep 13 10:35:50 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Sep 13 10:48:40 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Sep 13 10:58:30 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Sep 13 11:00:41 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Sep 13 11:02:56 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Sep 13 11:11:08 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Sep 13 11:22:27 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Sep 14 11:46:00 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Sep 14 12:24:58 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Sep 14 15:24:50 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	static/assets/fonts/icomoon.1b2cb4d.eot
+#	static/assets/fonts/icomoon.235d9b6.ttf
+#	static/assets/fonts/icomoon.e052841.woff
+#	static/assets/img/icomoon.9d3d3a2.svg
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Sep 14 18:40:24 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Sep 17 15:35:46 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Sep 17 16:14:09 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Sep 18 10:33:53 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 18 10:45:24 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 18 11:42:27 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 18 16:41:46 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 18 17:30:26 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 18 20:54:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 18 20:57:03 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 19 10:40:12 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 19 10:46:40 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 19 14:40:10 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Sep 19 15:08:52 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 19 15:45:32 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 19 16:23:04 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 19 17:02:46 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 19 17:20:28 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 19 20:46:26 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 19 22:14:42 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Sep 20 12:04:44 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Sep 20 14:35:38 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Sep 20 20:43:48 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Sep 21 11:21:56 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Sep 21 18:29:46 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 25 11:05:31 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Sep 25 11:08:43 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 25 11:27:18 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Sep 25 15:13:42 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 26 11:17:00 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 26 11:43:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 26 11:53:32 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 26 14:48:21 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 26 15:04:55 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 26 16:10:20 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Sep 26 16:31:55 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Sep 26 18:52:48 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Sep 27 10:29:56 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Oct  8 14:33:37 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Oct  8 14:41:53 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Oct  8 17:43:18 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 10 20:42:24 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 10 20:47:33 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Oct 10 22:59:44 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Oct 11 14:13:41 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Oct 11 14:55:15 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Oct 11 15:57:23 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Oct 12 12:13:01 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sun Oct 14 20:04:16 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Sun Oct 14 21:45:02 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Oct 15 19:53:50 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Oct 15 19:56:07 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Oct 17 10:38:13 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Oct 17 10:47:20 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Oct 17 11:39:27 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 17 11:51:45 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 17 16:10:34 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 17 17:00:56 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 17 18:04:17 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Oct 17 18:19:24 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Oct 17 19:46:47 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Oct 18 16:49:44 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Oct 18 16:55:25 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Oct 18 20:45:42 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Oct 19 10:22:08 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Oct 19 17:12:34 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Oct 19 17:18:02 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Oct 22 22:28:29 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Oct 23 11:24:35 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Oct 23 11:56:56 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Oct 23 21:29:21 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Oct 23 21:56:14 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 24 10:10:55 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Oct 24 11:00:11 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 24 14:39:51 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 24 15:08:40 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Oct 24 16:21:38 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 24 17:19:22 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 24 21:47:33 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Oct 25 11:47:09 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Oct 25 14:35:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Oct 25 17:35:27 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Oct 25 17:57:49 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Oct 25 18:06:15 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Oct 26 16:06:23 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Oct 26 16:25:16 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Oct 26 16:41:57 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Oct 26 17:21:31 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Oct 26 17:51:31 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Oct 26 18:45:53 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Oct 26 18:53:34 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Oct 26 19:21:54 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Oct 26 19:47:25 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Sat Oct 27 20:51:39 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Oct 29 14:27:44 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Oct 31 16:49:28 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Nov  5 16:43:10 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Nov  6 10:57:45 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Nov  6 12:24:46 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Nov  6 12:44:06 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Nov  6 15:05:08 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Nov  6 17:10:35 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Nov  7 14:40:23 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Nov  7 17:15:09 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov  8 10:59:58 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#	modified:   static/index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov  8 14:32:44 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov  8 15:59:46 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov  8 16:03:01 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov  8 16:11:34 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov  8 18:08:24 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov  8 18:15:46 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov  8 22:30:37 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Nov 14 23:36:51 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Nov 15 10:46:21 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Nov 15 16:27:30 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Nov 16 15:29:36 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Nov 16 15:51:28 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Nov 16 17:51:23 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Nov 16 23:22:15 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Mon Nov 19 18:38:44 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Nov 21 22:46:13 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov 22 12:16:39 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Nov 23 12:41:56 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Nov 23 22:32:12 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Nov 23 23:36:35 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Nov 26 20:53:51 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Nov 27 10:06:12 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Nov 27 10:58:43 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Nov 27 12:04:47 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Nov 27 16:12:14 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Nov 27 22:21:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Nov 28 10:05:52 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Nov 28 15:33:39 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Nov 28 18:05:08 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Nov 28 18:38:32 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Nov 28 20:25:40 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Nov 28 20:37:00 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Wed Nov 28 21:51:36 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Nov 29 10:13:54 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov 29 11:00:21 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Nov 29 21:42:29 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Sun Dec  2 20:32:34 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Dec  3 17:43:41 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Dec  3 17:50:32 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Dec  4 17:29:14 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Tue Dec  4 21:59:38 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#	modified:   static/index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Dec  5 09:36:10 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Dec  6 15:39:46 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Dec  6 16:35:43 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Dec  6 16:53:26 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Dec  6 18:03:49 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Dec  6 21:48:04 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#	modified:   static/index.html
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec  7 14:38:40 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec  7 15:38:21 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec  7 16:15:36 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec  7 17:29:55 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec  7 17:34:54 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec  7 20:11:25 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec  7 20:26:13 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Dec 13 14:21:11 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Dec 13 14:32:00 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec 14 11:35:33 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec 14 12:30:39 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Dec 20 17:27:52 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec 21 15:54:21 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Dec 24 16:02:41 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Dec 27 16:37:20 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Thu Dec 27 16:40:42 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Dec 28 11:16:36 CST 2018
+# On branch master
+nothing to commit, working directory clean
+Fri Dec 28 11:40:43 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec 28 17:36:00 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec 28 18:00:53 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Dec 28 22:16:38 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sat Dec 29 11:19:07 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sat Dec 29 15:06:52 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sat Dec 29 15:46:05 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Sat Dec 29 17:40:53 CST 2018
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jan  2 16:37:33 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/css/app.css
+#	modified:   static/assets/js/app.js
+#	modified:   static/assets/js/app.js.map
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jan  3 19:38:49 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jan  3 19:46:11 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jan 16 11:10:32 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Jan 23 11:52:45 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Jan 24 17:34:06 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Feb 25 15:19:58 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Feb 26 20:19:25 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Mar  5 15:37:38 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Mar  5 16:30:54 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Tue Mar 12 11:10:30 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Mar 13 17:49:08 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Wed Mar 13 20:01:43 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Mar 14 17:06:02 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Mar 14 17:54:46 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Mar 14 20:10:50 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Mar 18 14:31:03 CST 2019
+# On branch master
+nothing to commit, working directory clean
+Tue Mar 19 16:17:45 CST 2019
+# On branch master
+nothing to commit, working directory clean
+Tue Mar 19 16:36:38 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Mar 21 17:09:59 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Mar 21 20:24:42 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Mar 21 20:34:58 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Mar 29 11:23:16 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Mar 29 11:43:02 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Mar 29 15:14:15 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Apr  1 09:50:19 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Mon Apr  1 10:27:27 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Apr  4 17:54:27 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Apr  4 18:19:04 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Apr  4 20:14:55 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Apr  5 14:25:27 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Fri Apr  5 17:58:50 CST 2019
+# On branch master
+nothing to commit, working directory clean
+Mon Apr  8 16:47:41 CST 2019
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   static/assets/js/vendor.js
+#	modified:   static/assets/js/vendor.js.map
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+Thu Apr 11 19:50:32 CST 2019
+# On branch master
+nothing to commit, working directory clean
+Thu Apr 11 20:16:57 CST 2019
+# On branch master
+nothing to commit, working directory clean
+Tue Apr 16 19:20:36 CST 2019
+# On branch master
+nothing to commit, working directory clean
+Tue Apr 16 19:28:45 CST 2019
